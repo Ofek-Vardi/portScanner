@@ -7,11 +7,11 @@ Please run this tool using python3 and above.
 
 ## Imports
 
-- socket
-- sys
-- ipaddress
-- argparse
-- termcolor.colored
+    - socket
+    - sys
+    - ipaddress
+    - argparse
+    - termcolor.colored
 
 ## Command Line Arguments
 
